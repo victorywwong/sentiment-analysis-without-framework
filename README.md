@@ -4,6 +4,9 @@ During a deepdive study into the algorithms running behind Deep Learning Framewo
 ## Approach
 The neural net is built upon just numpy and YES it can be done. This is not encouraging the building of model from groundup for normal projects. pyTorch and Tensorflow does improves development speed and the heart of data science.
 
+## Why?
+I did this as part of Udacity's Deep Learning ND program.
+
 ## Download
 Clone the GitHub repository and run jupyter notebooks
 ```
